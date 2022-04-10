@@ -1,19 +1,19 @@
 ## The first assginment of neural network and deep learning 
 **file structure**  
 .  
-├── __init__.py  
-├── parameter——search.py  
-├── train.py  
-├── model_param  
-│   └── joseph_module_param.npy  
-├── plot_image.py  
-├── __pycache__  
-│   └── plot_image.cpython-39.pyc  
-├── ReadMe.md 
-├──plot
-│   └── MLP_w2.png
-    └──result.png
-└── test.py  
+* __init__.py  
+* parameter——search.py  
+* train.py  
+* model_param  
+    * joseph_module_param.npy  
+* plot_image.py  
+* __pycache__  
+    * plot_image.cpython-39.pyc  
+* ReadMe.md 
+* plot
+    * MLP_w2.png
+    * result.png
+* test.py  
 
 ----
 
