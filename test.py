@@ -1,10 +1,3 @@
-"""
-* This file is a part of the first homework of neural network and deep learning
-* To achieve a simple classification task by using two layer neural network.
-* Thanks to d2l course supporting for open source code contributions.
-* Copyright (C) 2022 Haochen Jiang <hcjiang21@m.fudan.edu.cn> (School of DataScience in Fudan University)
-"""
-
 import torchvision
 import numpy as np
 from plot_image import *
